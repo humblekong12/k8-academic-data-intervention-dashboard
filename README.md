@@ -62,18 +62,19 @@ Task:
 
 ---
 
+
 ## ⚡ Phase 3: The 48-Hour Systematic Intervention Protocol
 
 ```mermaid
 graph TD
-    A[AI Data Engine Flags Outlier] -->|Within 24 Hours| B(Analyze Sheets Dashboard for Behavior vs. Knowledge Gap)
-    B --> C{Determine Blocker Type}
-    C -->|Knowledge Gap| D[Deploy Targeted App Content & Adjust Thresholds]
-    C -->|Motivation Block| E[Initiate 5-Min Live Rescue Call]
-    D --> F[Monitor Metrics for 2x Velocity Return]
+    A["AI Data Engine Flags Outlier"] -->| "Within 24 Hours" | B["Analyze Sheets Dashboard for Behavior vs. Knowledge Gap"]
+    B --> C{"Determine Blocker Type"}
+    C -->| "Knowledge Gap" | D["Deploy Targeted App Content & Adjust Thresholds"]
+    C -->| "Motivation Block" | E["Initiate 5-Min Live Rescue Call"]
+    D --> F["Monitor Metrics for 2x Velocity Return"]
     E --> F
-    F -->|Target Achieved| G[Maintain 90%+ Mastery Flow]
-    F -->|Stalled| H[Escalate Dashboard Anomalies to Leadership]
+    F -->| "Target Achieved" | G["Maintain 90%+ Mastery Flow"]
+    F -->| "Stalled" | H["Escalate Dashboard Anomalies to Leadership"]
 ```
 
 1.  **Surfacing:** Machine data logs performance drop -> Sheets logic flags an anomaly -> Learning Specialist triages within 24 hours.
