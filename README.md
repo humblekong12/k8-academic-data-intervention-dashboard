@@ -78,6 +78,13 @@ graph TD
 ```
 
 
+
+
 1.  **Surfacing:** Machine data logs performance drop -> Sheets logic flags an anomaly -> Learning Specialist triages within 24 hours.
 2.  **Execution:** Run the targeted AI-generated call protocol to split structural errors from motivation fatigue. 
 3.  **Automation & Scale:** Feedback the intervention results to leadership to optimize dashboard thresholds and refine the evolving AI tutor backend.
+
+
+## 📂 Project Assets & Deliverables
+*   📥 **[Click Here to Download and Open in Excel (student_analytics_metrics.csv)](./student_analytics_metrics.csv)** — *Note to Reviewer: Please download this file to your local computer. When opened directly in Microsoft Excel, the automated anomaly-flagging tracking formulas will run dynamically.*
+
