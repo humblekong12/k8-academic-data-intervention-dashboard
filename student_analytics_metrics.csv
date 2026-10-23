@@ -1,0 +1,11 @@
+Student_ID,Grade_Level,Target_Mastery_%,Actual_Mastery_%,Avg_Daily_Minutes,Velocity_Trend,Flagged_Anomaly
+STU-001,Grade 3,0.90,0.94,28,Stable,"=IF(OR(D2<0.80, E2<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-002,Grade 4,0.90,0.91,32,Accelerating,"=IF(OR(D3<0.80, E3<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-003,Grade 3,0.90,0.88,25,Stable,"=IF(OR(D4<0.80, E4<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-004,Grade 5,0.90,0.64,14,Declining,"=IF(OR(D5<0.80, E5<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-005,Grade 7,0.90,0.92,40,Accelerating,"=IF(OR(D6<0.80, E6<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-006,Grade 6,0.90,0.78,35,Declining,"=IF(OR(D7<0.80, E7<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-007,Grade 4,0.90,0.95,22,Stable,"=IF(OR(D8<0.80, E8<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-008,Grade 8,0.90,0.89,15,Declining,"=IF(OR(D9<0.80, E9<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-009,Grade 5,0.90,0.91,30,Stable,"=IF(OR(D10<0.80, E10<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
+STU-010,Grade 3,0.90,0.96,45,Accelerating,"=IF(OR(D11<0.80, E11<20), "🚨 RESCUE REQUIRED", "✅ Flow Stable")"
